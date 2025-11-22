@@ -1,0 +1,6 @@
+@TalentVision.API_HostAddress = http://localhost:5063
+
+GET {{TalentVision.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

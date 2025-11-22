@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Oracle.EntityFrameworkCore" Version="9.23.26000" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\TalentVision.Domain\TalentVision.Domain.csproj" />
+      <ProjectReference Include="..\TalentVision.Application\TalentVision.Application.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TalentVision.Application/1.0.0": {
+        "dependencies": {
+          "TalentVision.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TalentVision.Application.dll": {}
+        }
+      },
+      "TalentVision.Domain/1.0.0": {
+        "runtime": {
+          "TalentVision.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TalentVision.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TalentVision.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
