@@ -37,7 +37,7 @@ Swagger (Autorizar):
 
 End-points com API-KEY na URL:
 
-    http://40.82.191.129:8080/api/v1/?apiKey=talentVision-secret-key
+    http://40.82.191.129:8080/api/v1/Candidaturas?apiKey=talentVision-secret-key
 
 
 
