@@ -32,12 +32,12 @@ modernizar e automatizar a triagem de currículos entre empresas e trabalhadores
 
 Swagger (Autorizar):
 
-    http://4.229.157.203:8080/swagger/index.html
+    http://40.82.191.129:8080/swagger/index.html
 
 
 End-points com API-KEY na URL:
 
-    http://4.229.157.203:8080/api/v1/?apiKey=talentVision-secret-key
+    http://40.82.191.129:8080/api/v1/?apiKey=talentVision-secret-key
 
 
 
